@@ -1,1 +1,0 @@
-"# slotty-template" 
