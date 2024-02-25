@@ -1,1 +1,1 @@
-# [Slot Game Demo](https://codepen.io/shawnnosaurus/full/MWxxNGj)
+# <a href="https://codepen.io/shawnnosaurus/full/MWxxNGj" target="_blank">Slot Game Demo</a>
